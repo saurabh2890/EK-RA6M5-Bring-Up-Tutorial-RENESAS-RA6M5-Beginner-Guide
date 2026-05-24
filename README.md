@@ -31,7 +31,7 @@ Comment below — I will try to support everyone.
 ▶ Real Industrial Embedded Projects
 
 You Tube Video Link with full explanation :
-
+https://youtu.be/vlygqH3IW1o?si=cCblDVbrNLAIMSbR 
 
 
 📢 Channel Name:
