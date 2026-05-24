@@ -1,0 +1,2 @@
+# EK-RA6M5-Bring-Up-Tutorial-RENESAS-RA6M5-Beginner-Guide
+In this video, we are going to learn the complete bring-up process of the RENESAS EK-RA6M5 Development Board with a simple LED Blink First Code Demo.  📌 This tutorial covers: ✅ EK-RA6M5 Board Introduction ✅ RENESAS RA6M5 MCU Overview ✅ Project Creation ✅ Build &amp; Debug Process ✅ GPIO Configuration ✅ LED Blink First Program ✅ Hardware Setup 
